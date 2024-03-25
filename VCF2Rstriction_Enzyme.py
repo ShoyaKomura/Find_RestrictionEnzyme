@@ -1,5 +1,4 @@
-#Extract restriction enzyme that can discern variants positions.
-#Updated to be available to indel. 2023.04.23 by SK
+#Find restriction enzyme referring with VCF file.
 #Useage
 #python VCF2Restriction_Enzyme.py <Reference> <vcf> <output_name>
 
